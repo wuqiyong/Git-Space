@@ -1,3 +1,1 @@
-hello Git master test
-veisions-5.0
-master
+hello Git
